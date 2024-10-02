@@ -5,7 +5,7 @@ void main() {
 }
 
 class CounterApp extends StatefulWidget {
-  const CounterApp({super.key});
+  const CounterApp({super.key});;
   @override
   state<>
   
